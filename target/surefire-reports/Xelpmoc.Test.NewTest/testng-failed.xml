@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Xelpmoc.Test.NewTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="Xelpmoc.Test.NewTest">
+        <methods>
+          <include name="Login"/>
+        </methods>
+      </class> <!-- Xelpmoc.Test.NewTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Xelpmoc.Test.NewTest] -->
