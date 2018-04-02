@@ -37,11 +37,11 @@ Then change the ownership of the Jenkins home, Jenkins webroot and logs.
 
 Change OwnerShip depend On User Default As a Login-user
 using this Command you will change ownership
-```
+
   chown -R akshay:akshay your_sourcecode_location ```
   
  #  In jenkins Setup:-
   
-  ```config -> Global properties ->Environment variables :
+  ``` config -> Global properties ->Environment variables :```
    ```  Name :DISPLAY  value: :0 ```
 
